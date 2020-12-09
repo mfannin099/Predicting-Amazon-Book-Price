@@ -34,7 +34,7 @@ After reading more about predictive models I created a voting classifer and also
 
 ---
 
-I improved the model from being 11.82& accurate to 53.64% accurate with a mean squared error of (4.73) meaning on average my model is off by almost 4 dollars and 75 cents. 
+I improved the model from being 11.82% accurate to 53.64% accurate with a mean squared error of (4.73) meaning on average my model is off by almost 4 dollars and 75 cents. 
 
 ### Limitations 
 
